@@ -4,3 +4,5 @@
 
 ### For Detailed FOLLOW UP
 https://github.com/adityadhopade/event_driven_setup/blob/main/Event-Driven-Demo.md
+
+### For detailed medium article: https://medium.com/@adityadhopade18/setting-up-event-driven-workflow-cdd5d15cc615
